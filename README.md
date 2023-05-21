@@ -1,2 +1,2 @@
 # calculator-assignment
-Calculator project from COMP-1400. Written in C.
+Made a simple calculator as a project from COMP-1400. This calculator can do basic operatinos each as addition, subtraction, multiplication and division to more complex operations such as square root and exponenentiation. This project helped me gain knownledge on how to implement functions and switch statements in C.
